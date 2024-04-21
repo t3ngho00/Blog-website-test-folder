@@ -1,0 +1,38 @@
+body {
+  padding: 20px;
+}
+
+.card {
+  margin-bottom: 20px;
+  padding: 20px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
+}
+
+.card-title {
+  margin-bottom: 20px;
+}
+
+.card-text {
+  margin-bottom: 20px;
+}
+
+.list-group-item {
+  margin-top: 10px;
+}
+
+.btn {
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+#post-inputs {
+  margin-bottom: 20px;
+}
+
+#postTitle, #postContent {
+  margin-bottom: 10px;
+}
+
+input[type="text"] {
+  margin-top: 10px;
+}
